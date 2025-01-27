@@ -48,7 +48,7 @@ if __name__ == "__main__":
     print(f"Repeats: {repeat_count}")
 ```
 ![image](https://github.com/user-attachments/assets/03db71f0-5fbc-4e4e-b224-f0d8de4c7dcb)
-<br></br>That wasn't quite it though, because it doesn't account for the number of times "MVM" appears elsewhere. So I read through the text counted 3 more occurances of "MVM", which brings a total count of 9336.
+<br></br>That wasn't quite it though, because it doesn't account for the number of times "MVM" appears elsewhere. So I read through the text and counted 3 more occurances of "MVM", which brings a total count of 9336.
 Following the rules for the flag format, I inserted the number of occurences and the MD2 representation of that number to get the flag.
 #### x3c{th3r3_4re_9336_MVMs_1n_my_c3rtif1cat3_2931355ee608d35463f2ef7847474858}
 ![image](https://github.com/user-attachments/assets/57a08047-4f4d-4c55-be66-fdad12909bef)
