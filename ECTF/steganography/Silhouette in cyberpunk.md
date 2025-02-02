@@ -1,5 +1,6 @@
 ## It actually took me longer to realise the solution than it sounds. But the troll was pretty funny though.
-<img width="480" alt="image" src="https://github.com/user-attachments/assets/57517941-e19a-4695-8294-9b3aa569c341" />
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/bb13e0a6-b363-42e7-9d79-2fffb87d1dce" />
+
 
 When I unzipped the challenge file, my immediate thought was to run it through steghide. Well, that didn't go too well.
 
