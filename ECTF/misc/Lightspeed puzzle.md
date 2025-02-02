@@ -1,6 +1,7 @@
 ## This took me longer than I'd like to admit, but it taught me a valuable lesson in CTF - Work smarter not harder
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/b54da530-2073-469b-9842-bb3711904cc9" />
 
-When I opened the page, I was presented with a 10x10 scrambled grid of what appears to be parts of an image with a code on it. 
+When I deployed the instance and accessed the page, I was presented with a 10x10 scrambled grid of what appears to be parts of an image with a code on it. 
 
 ![image](https://github.com/user-attachments/assets/1682b8d0-6c5a-45d1-b23d-c9227096922c)
 
