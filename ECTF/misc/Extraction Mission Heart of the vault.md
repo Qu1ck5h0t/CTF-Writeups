@@ -1,6 +1,7 @@
 ## This is probably the most difficult challenge I've solved in this CTF, but also the most fun and definitely my favourite by far.
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/9fe076f9-1843-4e66-9b1e-990d6be94cec" />
 
-I was given a password protected zip file. I've never dealt with zip file cracking before, but my instincts told me that it shouldn't be very difficult. After a quick search on DuckDuckGo (because Google won't tell me how to... nevermind), I found a very neat tool on GitHub called [ZipRipper](https://github.com/illsk1lls/ZipRipper/tree/main.)
+The attached file was a password protected zip file. I've never dealt with zip file cracking before, but my instincts told me that it shouldn't be very difficult. After a quick search on DuckDuckGo (because Google won't tell me how to... nevermind), I found a very neat tool on GitHub called [ZipRipper](https://github.com/illsk1lls/ZipRipper/tree/main.)
 
 I ran the zip file through it and the password I got for the zip was 'panget'.
 
