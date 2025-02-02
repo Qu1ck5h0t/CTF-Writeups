@@ -1,4 +1,5 @@
 ## This one took me a bit to get, but the solution was really satisfying.
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/4720c713-1ce0-4c7f-b369-b5e8176ad563" />
 
 At first I thought it was some sort of cipher or encoding, but it didn't look like any of the ones I know, so I was a bit stumped. I also noticed that the first character was a } despite the fact that it should be the last. My first instinct was to reverse it but that didn't work either.
 
