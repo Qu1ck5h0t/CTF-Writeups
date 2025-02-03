@@ -1,6 +1,6 @@
 ## This one was quite comfortable, though for a while I did mistakenly write "name" instead of "username" as a parameter in the payload. Silly me.
 
-When I got on the page, I immediately recognised the token on the page as a JWT token. I have a bit of experience with JWT tokens from previous CTF problems, so my first instinct was to put it through a website to crack it. 
+When I got on the page, I immediately recognised the token on the page as a JWT token. I have a bit of experience with JWT tokens from previous CTF problems, so my first instinct was to put it through a [website](https://jwt-cracker.online/) to crack it. 
 
 ![image](https://github.com/user-attachments/assets/98d16789-f37c-4140-b9ee-eed560072126)
 
