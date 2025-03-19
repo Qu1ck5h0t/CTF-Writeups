@@ -1,7 +1,7 @@
 # This challenge helped me reinforce some of my fundamentals with RSA, which is very helpful because I tend to screw up a lot with RSA challs
 ![image](https://github.com/user-attachments/assets/cad00a0c-392c-4630-af04-3853a3db5292)
 
-Immediately upon connecting to the netcat instance, we can see the product of primes (n), public exponent (e) and ciphertext (c). Since the value for e is pretty standard, the most straightforward way to tackle RSA problems like this begins with finding the factors of n, which we define as p and q. Luckily for us, n is an even number which means that p and q are simply 2, and whatever the other number divided by 2 is. 
+Immediately upon connecting to the netcat instance, we can see the product of primes (n), public exponent (e) and ciphertext (c). Since the value for e is pretty standard, the most straightforward way to tackle RSA problems like this begins with finding the factors of n, which we define as p and q. Luckily for us, n is an even number which means that p and q are simply 2, and whatever n divided by 2 is. 
 ![image](https://github.com/user-attachments/assets/5101f779-a524-4b1d-8e2d-44117f8fd7c3)
 
 Then, we can write a script that computes the plaintext for us.
