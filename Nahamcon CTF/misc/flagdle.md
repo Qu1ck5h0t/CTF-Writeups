@@ -31,6 +31,6 @@ def findflag():
 
 findflag()
 ```
-The final printed output would've been the flag, which in my case was bec42475a614b9c9ba80d0eb7ed258c5. Hence, the flag is ```flag{bec42475a614b9c9ba80d0eb7ed258c5```.
+The final printed output would've been the flag, which in my case was bec42475a614b9c9ba80d0eb7ed258c5. Hence, the flag is ```flag{bec42475a614b9c9ba80d0eb7ed258c5}```.
 
 Postscript: I probably could've solved it quicker had I used chatgpt, but what I really like about this is that it's mostly algorithmic rather than niche knowledge and I enjoyed it quite a bit as a brain exercise.
