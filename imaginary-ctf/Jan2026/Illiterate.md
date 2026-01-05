@@ -1,5 +1,5 @@
 <img width="708" height="412" alt="image" src="https://github.com/user-attachments/assets/05aceb4f-1564-4f22-9330-f2b3887647d6" />
 
-# I solved this but the CTF is still ongoing so I'll wait until the end to release my writeup. In the meantime, enjoy a cute pic of my favourite animal
+# I solved ~~this~~ the first part but the CTF is still ongoing so I'll wait until the end to release my writeup. In the meantime, enjoy a cute pic of my favourite animal
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8e586e5a-8535-4c18-bbf3-6f119d41e857" />
